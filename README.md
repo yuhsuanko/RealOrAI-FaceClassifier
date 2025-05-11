@@ -1,6 +1,6 @@
 # Classifying Real vs AI-Generated Images
 <p float="left">
-<img src='https://ik.imagekit.io/monicako/000012.jpg?updatedAt=1746945403671' width=300 height=200>
+<img src='https://ik.imagekit.io/monicako/000012.jpg?updatedAt=1746945403671' width=300 height=300>
 <img src='https://media-hosting.imagekit.io//f4f04f412470469c/100k-ai-faces-6.jpg?Expires=1836494263&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=BWdWHOItUOfLzylPQ90Grdrf5xUssYxu7b69sYCUosnUsuvAWL~0V2I4PFLppmigd7YcCxJWH5W7zlbJk8tZz7Q9UDXy9xpk5pWoTWLOxRoUVoAgcikAbIa7r4Q6BnxnjETLJ1Bik6zh-54E-u3H9Zmj0MHPWc8E~3Pwk3ebfcIR9iOMuPFbMYGsVBJFTPpNpi5yYWzX0s33waYppnbPu-LES1mMTB-uz-hByJNjnQz2JEeC0d9hYb5fKURYK3PjzjPZ1coUOetAFIhpwni5q3s2WYILrOyxXClMgUO~irST68fkdX10B~wvUGkhyngSki591lhBQxoPwsiTCg9OjQ__' width=300>
 </p>
 
