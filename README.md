@@ -1,6 +1,6 @@
 # Classifying Real vs AI-Generated Images
 <p float="left">
-<img src='https://media-hosting.imagekit.io//ef77d415f37542f1/Screenshot%202025-03-12%20at%201.10.11%20PM.png?Expires=1836411048&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PfTp-hDs5R6bPffykgC5-IUiND7FNtH8U4Sbg00vjvSq9UB4NVFuGTLLmz6v0L8yjYiW5vcIzIZi7VZsl5JOgKdpg~xT5OTTrJqUBlZrQSCT~MiClF9T~24l~M5OXp~MOotf9mY9XfpQYuAycxESZ-NzuudLX0rYjUPI386DigoPggq2SmHcrhzGjYyAOyba3CKI8Er86TVjMt5wJBPVKze9jxQ2EaDruoZ-7hSO76kYMeRm6hGTRboc4zr9r9RpjXn-qEYwEsWORSmXS2AOJ1tv8VSPIaOMTJRyulrgrAIaeydjj7d6IOUzVYf~gB~zg60WIdi168Tenp3eW67KsQ__' width=300>
+<img src='https://ik.imagekit.io/monicako/000012.jpg?updatedAt=1746945403671' width=300>
 <img src='https://media-hosting.imagekit.io//f4f04f412470469c/100k-ai-faces-6.jpg?Expires=1836494263&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=BWdWHOItUOfLzylPQ90Grdrf5xUssYxu7b69sYCUosnUsuvAWL~0V2I4PFLppmigd7YcCxJWH5W7zlbJk8tZz7Q9UDXy9xpk5pWoTWLOxRoUVoAgcikAbIa7r4Q6BnxnjETLJ1Bik6zh-54E-u3H9Zmj0MHPWc8E~3Pwk3ebfcIR9iOMuPFbMYGsVBJFTPpNpi5yYWzX0s33waYppnbPu-LES1mMTB-uz-hByJNjnQz2JEeC0d9hYb5fKURYK3PjzjPZ1coUOetAFIhpwni5q3s2WYILrOyxXClMgUO~irST68fkdX10B~wvUGkhyngSki591lhBQxoPwsiTCg9OjQ__' width=300>
 </p>
 
